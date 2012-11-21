@@ -5,8 +5,9 @@
 
 ## Screenshot
 
-![easy-highlight1](https://github.com/syohex/emacs-easy-highlight/raw/master/image/eash-highlight1.png)
-![easy-highlight2](https://github.com/syohex/emacs-easy-highlight/raw/master/image/eash-highlight2.png)
+![easy-highlight1](https://github.com/syohex/emacs-easy-highlight/raw/master/image/easy-highlight1.png)
+
+![easy-highlight2](https://github.com/syohex/emacs-easy-highlight/raw/master/image/easy-highlight2.png)
 
 
 ## Requirements
